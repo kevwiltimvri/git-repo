@@ -1,2 +1,2 @@
-this is practice for lighthouse labs
-more practice!
+hello
+this is practice
